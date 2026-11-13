@@ -1,7 +1,7 @@
 # Superstore Sales Performance Analysis
 
 ## Project Overview
-This project analyses Superstore sales data using Microsoft Power BI to identify sales trends, product performance, customer contributions, regional performance, and shipping patterns.
+This project analyses Superstore sales data using SQL and Microsoft Power BI to identify sales trends, product performance, customer contributions, regional performance, and shipping patterns.
 
 ## Business Objectives
 - Evaluate overall sales performance.
@@ -14,6 +14,7 @@ This project analyses Superstore sales data using Microsoft Power BI to identify
 - Microsoft Excel
 - Power BI
 - Power Query
+- SQL
 - DAX
 
 ## Dashboard Pages
