@@ -71,4 +71,5 @@ The dataset does not contain profit, quantity, discount, returns, inventory, or 
 ## Project Files
 - Power BI report (.pbix)
 - Dashboard screenshots
+- Final Report (.pdf)
 - Dashboard screenshots (.pdf)
